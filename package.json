@@ -1,0 +1,27 @@
+{
+  "name": "prerender-app",
+  "version": "1.0.0",
+  "description": "Basic app to test dynamic rendering using prerender.io.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weaponsforge/prerender-app.git"
+  },
+  "keywords": [
+    "dynamic-rendering",
+    "prerenderio"
+  ],
+  "author": "weaponsforge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weaponsforge/prerender-app/issues"
+  },
+  "homepage": "https://github.com/weaponsforge/prerender-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
